@@ -7,7 +7,7 @@ Projeto feito durante a aula na plataforma Alura, criado utilizando Tailwind CSS
 | -------------  | --- |
 | :sparkles: Nome        | **Newsletter**
 | :label: Tecnologias |Tailwind CSS
-| :rocket: URL         | https://wave-cast-orcin.vercel.app/
+| :rocket: URL         | https://newsletter-vert-five.vercel.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](img/print.png)
